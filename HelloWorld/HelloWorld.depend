@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\a chetan kumar\desktop\c programs\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1703407329 source:c:\users\a chetan kumar\desktop\c programs\helloworld\greaterprinter.c
+	<stdio.h>
+	<stdlib.h>
+
